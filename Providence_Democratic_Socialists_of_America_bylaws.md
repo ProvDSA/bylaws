@@ -100,6 +100,8 @@ The Executive Committee shall consist of the following elected officers:
 
 # Section B — Officer Roles
 
+Providence DSA officers are entrusted with building democratic power in our organization. These roles are not meant to deliver political direction, but assist and facilitate in our membership setting that direction.
+
 The Co-Chairs are responsible for ensuring that announcements for upcoming meetings are made to DSA members with sufficient advanced notice, preparing and distributing meeting agendas, facilitating meetings, taking and distributing meeting minutes, and other organizational tasks. They organize the Executive Committee as a leadership body between official meetings.
 
 The membership coordinator is responsible for managing and updating the Local’s email list, verifying members’ status with the national office, welcoming and orienting new members, and developing and implementing a program of membership recruitment.
