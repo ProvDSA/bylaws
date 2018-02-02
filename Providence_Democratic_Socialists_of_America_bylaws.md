@@ -97,6 +97,7 @@ The Executive Committee shall consist of the following elected officers:
 - Membership Coordinator
 - Treasurer
 - Social Media Coordinator
+- Secretary
 - Outreach Coordinator
 
 # Section B — Officer Roles
@@ -109,6 +110,8 @@ The Treasurer is responsible for establishing a Local bank account, and for the 
 
 The social media coordinator is responsible for maintaining an active social media presence for the Local in pursuance to its stated objectives.
 
+The Secretary is responsible for keeping records, notes, and documentation of official Providence DSA work and sharing that information when needed with the membership as a whole.
+
 The outreach coordinator is responsible for ensuring that announcements for upcoming meetings are made to DSA members with sufficient advanced notice, coordinating events, booking event spaces, securing permits, and reaching out to membership about events.
 
 # Section C — Ad Hoc Leadership Roles
@@ -117,7 +120,7 @@ Local members may be appointed by the Chairs to ad hoc leadership positions on a
 
 # Section D — Amending Officer Roles and Responsibilities
 
-Changes/additions to Local officers (i.e. Secretary, etc.) may be made by amending the bylaws.
+Changes/additions to Local officers may be made by amending the bylaws.
 
 # Section E — Diversity in Executive Committee
 
