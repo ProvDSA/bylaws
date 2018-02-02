@@ -83,7 +83,11 @@ The executive committee must give notice for official meetings to all Providence
 
 Quorum consists of at least twelve members in good standing.
 
-# Section D — Voting Process
+# Section D - In Good Standing
+
+A member in good standing is one who is a member of Providence DSA and a dues paying member of DSA National.
+
+# Section E — Voting Process
 
 Only members of Providence DSA shall have the right to vote on motions and proposals. Votes are decided by majority rule, unless otherwise specified in the bylaws. Non-members may be invited to give a consultative vote.
 
@@ -132,19 +136,63 @@ Expenditures of Local funds must be consistent with Providence DSA’s stated go
 
 # Section G — Branch Organization Leadership
 
-Branches under the Local shall elect chairpersons by their branch membership, consistent with the membership criteria and election procedures described in this document. Those elected branch chairpersons shall be members of the Executive Committee, ex officio.
+Branches under the Local shall elect chairpersons by their branch membership, consistent with the membership criteria and election procedures described in this document within a reasonable time frame of organizing. Those elected branch chairpersons shall be members of the Executive Committee, ex officio.
 
 # Section H — Term of Service
-The term of service on the Executive Committee shall be twelve (12) months.
 
-# Section J — Election Procedure
+The term of service on the Executive Committee shall be twelve (12) months or in the case of a special election, the term of service shall be the length of time until the next general election.
 
-One official meeting each year will be designated to include Executive Committee elections. At this meeting, candidates are nominated by Local members and elected by the Local membership. In cases of contested races, elections will be conducted by secret ballot; where a candidate runs unopposed, simple acclamation suffices. Each position will be filled by a majority vote. In cases of multiple candidates yielding no winner with a majority, a runoff vote will be held immediately thereafter between the two candidates with the most votes.
+# Section J — Election Procedures
+
+One official meeting each year will be designated to include Executive Committee elections.
+
+At least 1 month before the election, an ad hoc election committee shall form (henceforth: Election Committee) of volunteering members reporting to the Executive Committee that shall exist only for the duration of the election that has been called.
+
+Members of the Election Committee should not be running for positions enumerated in Article VII, Section A in order to have a clear, independent election.
+
+The Election Committee shall self organize responsibilities, elect it's own leadership, and work under the democratic principles that guide Providence DSA.
+
+The Election Committee has the power to:
+
+- Create a voter roll of eligible members
+- Provide information to candidates about role responsibility
+- Notify membership of elections
+- Provide information about candidates to the membership
+- Set up the voting process from a technical and procedural standpoint
+- Notify the Executive Committee and membership of the voting outcomes
+- Create opportunities to have candidates speak or share with the general membership
+- Provide paper ballots to those who request them and the power to audit and tabulate them as any other ballot.
+- Act in regards to the election not enumerated in this section.
+
+Voting should be accessible to all membership and not be limited to membership's ability to be present for the meeting which elections are held. Open voting shall exist for a time frame enumerated by the Election Committee of no less than 3 days.
+
+Candidates must be nominated by Local members.
+
+Candidates are elected by the Local membership using instant runoff voting.
+
+In cases of contested races, elections will be conducted by secret ballot using the process laid out by the Election Committee.
+
+Where a candidate runs unopposed, simple acclamation vote suffices.
+
+Each position will be filled by the winners of the election organized by the Election Committee.
+
+If a position is vacant, at any time the Executive Committee may call a special election for that position or membership may, by the same powers of recall in Section K, call a recall election on the vacant seat.
 
 # Section K — Recall Procedure
 
 Executive Committee members remain accountable to the Local membership throughout their terms. Any member may, on grounds of nonfeasance or malfeasance, call for a recall election of any Executive Committee member(s) at an official meeting with a quorum. If a total of five or more members join in calling for such a recall election, challengers may be nominated for the contested seat(s). If one or more challengers are nominated for a seat, an election will immediately follow according to the procedure described above. If no challengers are nominated, the incumbent retains his or her position by default. 
 
+All recall elections must follow the voting rules as listed in Section J.
+
 # ARTICLE VIII — Amendment
 
-These bylaws may be amended or replaced with the approval of two-thirds of the voting membership present at an official meeting with a quorum. At the request of any one or more members, an amendment vote will occur using secret ballot. No amendment may be introduced and voted on at the same meeting.
+Any amendments to the bylaws can be called by a Providence DSA member in good standing with four other members in good standing.
+
+These bylaws may be amended or replaced with the approval of two-thirds of voters in good standing with at least a quorum responding using a secret ballot. If a quorum does not respond, the vote fails.
+
+Voting shall take place in a similar manner to general elections, an amendment vote should:
+
+- Be notified to all members in good standing
+- Have an opportunity for all members in good standing to participate in the vote
+- Be accessable to all members in good standing
+- Have a period of no less than 3 days in order to vote in a method delinated during the amendment process.
