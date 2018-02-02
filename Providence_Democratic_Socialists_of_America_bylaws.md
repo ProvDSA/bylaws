@@ -97,16 +97,19 @@ The Executive Committee shall consist of the following elected officers:
 - Membership Coordinator
 - Treasurer
 - Social Media Coordinator
+- Outreach Coordinator
 
 # Section B — Officer Roles
 
-The Co-Chairs are responsible for ensuring that announcements for upcoming meetings are made to DSA members with sufficient advanced notice, preparing and distributing meeting agendas, facilitating meetings, taking and distributing meeting minutes, and other organizational tasks. They organize the Executive Committee as a leadership body between official meetings.
+The Co-Chairs are responsible for preparing and distributing meeting agendas, facilitating meetings, taking and distributing meeting minutes, and assisting in all other organizational tasks. They organize the Executive Committee as a leadership body between official meetings.
 
 The membership coordinator is responsible for managing and updating the Local’s email list, verifying members’ status with the national office, welcoming and orienting new members, and developing and implementing a program of membership recruitment.
 
 The Treasurer is responsible for establishing a Local bank account, and for the proper accounting of funds collected and disbursed, including providing regular (no greater than every three months) updates on fund balances and expenditures to the membership. At the request of both Co-Chairs, the Treasurer must deliver a full report on Local finances within two weeks of notification. 
 
 The social media coordinator is responsible for maintaining an active social media presence for the Local in pursuance to its stated objectives.
+
+The outreach coordinator is responsible for ensuring that announcements for upcoming meetings are made to DSA members with sufficient advanced notice, coordinating events, booking event spaces, securing permits, and reaching out to membership about events.
 
 # Section C — Ad Hoc Leadership Roles
 
