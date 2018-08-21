@@ -91,6 +91,8 @@ A member in good standing is one who is a member of Providence DSA and a dues pa
 
 Only members of Providence DSA shall have the right to vote on motions and proposals. Votes are decided by majority rule, unless otherwise specified in the bylaws. Non-members may be invited to give a consultative vote.
 
+Individuals can seek the endorsement of Providence DSA. They are voted on by the entire memebership, and require 2/3rds of all votes cast to be in assent, with a quorum needed of 20% of all dues paying members.
+
 # ARTICLE VII — EXECUTIVE COMMITTEE
 
 # Section A — Officers
